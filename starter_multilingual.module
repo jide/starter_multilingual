@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Starter: Multilingual feature.
+ */
+
+include_once 'starter_multilingual.features.inc';
