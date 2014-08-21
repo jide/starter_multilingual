@@ -18,6 +18,7 @@ function starter_multilingual_strongarm() {
     'node' => 'node',
     'taxonomy_term' => 'taxonomy_term',
     'file' => 'file',
+    'commerce_product' => 0,
     'entityform' => 0,
     'user' => 0,
   );
