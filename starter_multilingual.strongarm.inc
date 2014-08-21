@@ -17,6 +17,7 @@ function starter_multilingual_strongarm() {
   $strongarm->value = array(
     'node' => 'node',
     'taxonomy_term' => 'taxonomy_term',
+    'bean' => 'bean',
     'file' => 'file',
     'commerce_product' => 0,
     'entityform' => 0,
